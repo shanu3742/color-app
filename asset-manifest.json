@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shanu3742/color-app/static/css/main.67042bef.css",
-    "main.js": "/shanu3742/color-app/static/js/main.d2a4cf5a.js",
-    "static/js/453.ed3810f9.chunk.js": "/shanu3742/color-app/static/js/453.ed3810f9.chunk.js",
-    "static/media/logo.svg": "/shanu3742/color-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/shanu3742/color-app/index.html",
-    "main.67042bef.css.map": "/shanu3742/color-app/static/css/main.67042bef.css.map",
-    "main.d2a4cf5a.js.map": "/shanu3742/color-app/static/js/main.d2a4cf5a.js.map",
-    "453.ed3810f9.chunk.js.map": "/shanu3742/color-app/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/color-app/static/css/main.67042bef.css",
+    "main.js": "/color-app/static/js/main.9543ff78.js",
+    "static/js/453.ed3810f9.chunk.js": "/color-app/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "/color-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/color-app/index.html",
+    "main.67042bef.css.map": "/color-app/static/css/main.67042bef.css.map",
+    "main.9543ff78.js.map": "/color-app/static/js/main.9543ff78.js.map",
+    "453.ed3810f9.chunk.js.map": "/color-app/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.67042bef.css",
-    "static/js/main.d2a4cf5a.js"
+    "static/js/main.9543ff78.js"
   ]
 }
