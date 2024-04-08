@@ -132,6 +132,13 @@ React.useEffect(() => {
                         localStorage.setItem('newColor',JSON.stringify(newColorCopy))
                         setNewColor(newColorCopy)
                       }} />
+                       <input placeholder='type color' type="text" value={color} onChange={(e) => {
+                        // console.log(e.target.value)
+                        let newColorCopy = [...newColor];
+                        newColorCopy[colorIndex] = e.target.value;
+                        localStorage.setItem('newColor',JSON.stringify(newColorCopy))
+                        setNewColor(newColorCopy)
+                      }} />
               </div>
             )
           })
